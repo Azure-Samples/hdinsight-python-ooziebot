@@ -1,7 +1,7 @@
 #Check Usage Syntax
 if [ $# -lt 3 ]; then
     echo "Usage: source deployCoordinator <FREQUENCY> <WORKFLOW_TYPE> <WASB_PATH> <SOURCE_FILE> [<SPARK_JAR>]"
-    echo "EXAMPLE: source deployCoordinator hive sample ../examples/hiveSample.hql"
+    echo "EXAMPLE: source deployCoordinator hive sample ../resources/hiveSample.hql"
     return -1
 fi
 
