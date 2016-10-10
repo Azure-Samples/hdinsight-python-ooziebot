@@ -1,4 +1,4 @@
-# OozieBot: Automated Oozie Workflow and Coordinator Generation
+# OozieBot
 
 Introducing OozieBot - a tool to help customers automate Oozie job creation. OozieBot helps users generate Apache Oozie coordinators and Workflows for Hive, Spark and Shell actions and run them on a Linux based HDInsight cluster.
 
